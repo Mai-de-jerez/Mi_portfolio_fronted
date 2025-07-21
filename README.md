@@ -1,4 +1,4 @@
-# 🌟 Mi Portfolio Frontend 🌟
+# 🌟 Portfolio Personal 🌟
 
 ## Descripción General
 
@@ -31,6 +31,7 @@ Este es mi portfolio personal, diseñado para mostrar mis habilidades y proyecto
 
 El repositorio está organizado de la siguiente manera:
 
+```
 ├── assets/                  # Archivos CSS, JS y SASS de la plantilla
 │   ├── css/
 │   │   └── main.css         # Estilos principales de la plantilla y personalizados
@@ -44,6 +45,7 @@ El repositorio está organizado de la siguiente manera:
 ├── landing.html             # Página para la sección "Formación" o "Trayectoria"
 ├── generic.html             # Página para la sección "Sobre mí"
 └── README.md                # Este archivo
+```
 
 ---
 
