@@ -2,7 +2,7 @@
 
 ## Descripción General
 
-Este es mi portfolio personal, diseñado para mostrar mis habilidades y proyectos en desarrollo frontend. Está construido utilizando la plantilla **Forty de HTML5 UP**, conocida por su diseño responsivo y moderno, lo que me ha permitido centrarme en la estructura y el contenido de mis proyectos.
+Este es mi portfolio personal, diseñado para mostrar mis habilidades en desarrollo frontend. Está construido utilizando la plantilla **Forty de HTML5 UP**, conocida por su diseño responsivo y moderno, lo que me ha permitido centrarme en la estructura y el contenido de mis proyectos.
 
 ---
 
